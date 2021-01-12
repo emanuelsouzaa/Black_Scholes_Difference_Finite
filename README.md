@@ -1,1 +1,1 @@
-# Black_Scholes_Difference_Finite
+Numerical resolution of the Black-Scholes equation using the finite difference method. The BDF2 methods and differences centered directly on the heat equation associated with the Black-Scholes equation were used. This code belongs to the scientific initiation project with the theme "Numerical Resolution of the Black-Scholes Equation".
